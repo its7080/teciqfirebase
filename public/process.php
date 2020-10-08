@@ -1,7 +1,7 @@
 <?php
 // Configure your Subject Prefix and Recipient here
-$subjectPrefix = 'GenOne';
-$emailTo       = 'am7059141480@gmail.com';
+$subjectPrefix = 'TecIQ';
+$emailTo       = 'teciqllc@gmail.com';
 $errors = array(); // array to hold validation errors
 $data   = array(); // array to pass back data
 if($_SERVER['REQUEST_METHOD'] === 'POST') {
